@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-kusto
 Version  : 0.7.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/36/b9/3dd164b54f1f86c7355859204ec5399187ca4f351bd8c7ba1a96b1453245/azure-mgmt-kusto-0.7.0.zip
 Source0  : https://files.pythonhosted.org/packages/36/b9/3dd164b54f1f86c7355859204ec5399187ca4f351bd8c7ba1a96b1453245/azure-mgmt-kusto-0.7.0.zip
 Summary  : Microsoft Azure Kusto Management Client Library for Python
